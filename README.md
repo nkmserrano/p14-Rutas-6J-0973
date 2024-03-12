@@ -23,4 +23,6 @@ samples, guidance on mobile development, and a full API reference.
 ![image](https://github.com/nkmserrano/p14-Rutas-6J-0973/assets/143548150/07675e40-ffec-47ac-a341-05687f0c83d1)
 ![image](https://github.com/nkmserrano/p14-Rutas-6J-0973/assets/143548150/c210b7ba-72da-4413-a519-86d26c97e694)
 
-
+## Links de Referencia
+- https://www.allaboutflutter.com/textstyle-in-flutter-textstyle-widget-tutorial
+- https://flutterexplained.com/p/episode-14-mastering-card-widget
